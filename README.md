@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-I'm John. I manage server administration for GWIT at The George Washington University.
+I'm John. I manage the Server Administration team for GWIT at The George Washington University.
 
 Part of that work involves managing GW's GitHub Enterprise for Education offering.
 
