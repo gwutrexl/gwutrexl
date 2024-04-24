@@ -16,4 +16,4 @@ If you need more specific help, or have some ideas on how you'd like to use GitH
 
 P.S.
 
-Hippos 🦛 are vastly underrated and would be a mascot that would make the group proud.
+Hippos 🦛 are vastly underrated and would be a mascot that would make any group proud.
