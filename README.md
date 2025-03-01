@@ -11,7 +11,6 @@ If you need more specific help, or have some ideas on how you'd like to use GitH
 
 [![GitHub Foundations Certification](./github-foundations.png)](https://www.credly.com/badges/7488c25d-4def-4e5a-9fa7-4edc578f4a84/public_url)
 [![GitHub Administration Certification](./github-administration.png)](https://www.credly.com/badges/a1fdbd90-4d8e-4834-8e44-465384c80f3a/public_url)
-[![GitHub Actions Certification](./github-actions.png)](https://www.credly.com/badges/f274d10b-004a-4987-bb91-8eddad64f22a/public_url)
 <hr>
 
 P.S.
